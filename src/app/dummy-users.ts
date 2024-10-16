@@ -1,7 +1,7 @@
 export const DUMMY_USERS = [
   {
     id: 'u1',
-    name: 'Jasmine Washington',
+    name: 'Lee Jackson',
     avatar: 'user-1.jpg',
   },
   {
@@ -16,12 +16,12 @@ export const DUMMY_USERS = [
   },
   {
     id: 'u4',
-    name: 'David Miller',
+    name: 'Milo Stich',
     avatar: 'user-4.jpg',
   },
   {
     id: 'u5',
-    name: 'Priya Patel',
+    name: 'Tom Jerry',
     avatar: 'user-5.jpg',
   },
   {
